@@ -1,0 +1,5 @@
+need to test the effects of:
+- Amend;
+- Revert;
+- Chechout;
+- Branching;
